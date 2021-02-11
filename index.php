@@ -1,4 +1,5 @@
 <?php
 
-      echo "Hello Words!";
+      echo "Hello Word!";
+      echo "Teste"
 ?>
